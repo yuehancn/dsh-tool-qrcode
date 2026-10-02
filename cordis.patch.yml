@@ -1,0 +1,17 @@
+# The dsh-tool-qrcode bundle patch: one insert adding the QR tool suite.
+#
+# The built-in encoder writes SVG and needs no external tools. Raster output and
+# decoding use whatever encoder/decoder you have, configured by overriding this
+# row in the profile's own cordis.patch.yml (the last write wins per row):
+#
+#   - id: tool-qrcode
+#     config:
+#       encodeCommand: qrencode
+#       encodeArgs: ["-o", "{output}", "-t", "PNG", "-l", "{level}", "{text}"]
+#       decodeCommand: zbarimg
+#       decodeArgs: ["--raw", "-q", "{input}"]
+#       outputDir: C:/Users/<you>/Pictures/qr-output
+
+- insert:
+    - id: tool-qrcode
+      name: dsh-tool-qrcode

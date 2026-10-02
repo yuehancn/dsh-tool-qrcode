@@ -1,0 +1,10 @@
+{
+  "num.svg": "012345678901234567890123456789012345",
+  "hello.svg": "HELLO WORLD",
+  "url.svg": "https://example.com/qr?from=dsh",
+  "vcard.svg": "BEGIN:VCARD\nVERSION:3.0\nFN:Jane Doe\nTEL:+8613800138000\nEMAIL:jane@example.com\nEND:VCARD",
+  "cjk.svg": "深度求索工具链",
+  "wifi.svg": "WIFI:T:WPA;S:OfficeNet;P:hunter2correct;;",
+  "long.svg": "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.",
+  "big.svg": "https://example.com/a/very/long/path?token=abcdefghijklmnopqrstuvwxyz0123456789&mode=fullxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}

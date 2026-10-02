@@ -1,0 +1,34 @@
+{
+  "num.svg": {
+    "level": "L",
+    "version": 1
+  },
+  "hello.svg": {
+    "level": "L",
+    "version": 1
+  },
+  "url.svg": {
+    "level": "L",
+    "version": 3
+  },
+  "vcard.svg": {
+    "level": "L",
+    "version": 5
+  },
+  "cjk.svg": {
+    "level": "L",
+    "version": 2
+  },
+  "wifi.svg": {
+    "level": "L",
+    "version": 3
+  },
+  "long.svg": {
+    "level": "L",
+    "version": 10
+  },
+  "big.svg": {
+    "level": "L",
+    "version": 17
+  }
+}
